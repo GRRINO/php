@@ -15,3 +15,4 @@ $fruitLists = array("apple","orange","peach","kiwi");
 echo $fruits[0];
 
 ?>
+
